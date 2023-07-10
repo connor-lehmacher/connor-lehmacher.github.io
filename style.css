@@ -18,9 +18,8 @@ header {
 }
 
 td {
-  margin 10px auto 10px auto;
+  margin: 10px auto 10px auto;
 }
-
 
 h1 {
   font-size: 2em;
@@ -34,6 +33,10 @@ section {
   margin-bottom: 20px;
 }
 
+h2 {
+  font-size: 1.5em;
+}
+
 a {
   text-decoration: none;
   color: #000;
@@ -42,10 +45,6 @@ a {
 }
 
 a:hover {
-  color: #0000;
+  color: #000099;
   text-decoration: underline;
-}
-
-h2 {
-  font-size: 1.5em;
 }
