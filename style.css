@@ -39,6 +39,7 @@ h2 {
 
 a {
   text-decoration: underline;
+  text-decoration-thickness: 1px;
   color: #000;
   transition: color 0.15s ease-in-out;
 }
@@ -46,6 +47,7 @@ a {
 a:hover {
   color: #000099;
   text-decoration: underline;
+  text-decoration-thickness: 2px;
 }
 
 .week {
