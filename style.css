@@ -56,3 +56,23 @@ a:hover {
 #reference li {
   margin-bottom: 5px;
 }
+
+@media screen and (max-width: 768px) {
+  /* Adjustments for mobile devices */
+
+  #navigation {
+    width: 100%;
+  }
+
+  td {
+    margin: 5px auto;
+  }
+
+  h1 {
+    font-size: 1.5em;
+  }
+
+  h2 {
+    font-size: 1.2em;
+  }
+}
