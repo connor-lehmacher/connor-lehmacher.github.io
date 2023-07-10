@@ -52,3 +52,7 @@ a:hover {
 .week {
   margin-top: 20px;
 }
+
+#reference li {
+  margin-bottom: 10px;
+}
