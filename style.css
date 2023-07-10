@@ -18,7 +18,7 @@ header {
 }
 
 td {
-  padding: 10px; 
+  margin 10px auto 10px auto;
 }
 
 
@@ -34,10 +34,6 @@ section {
   margin-bottom: 20px;
 }
 
-h2 {
-  font-size: 1.5em;
-}
-
 a {
   text-decoration: none;
   color: #000;
@@ -46,7 +42,10 @@ a {
 }
 
 a:hover {
-  color: #000099;
+  color: #0000;
   text-decoration: underline;
 }
 
+h2 {
+  font-size: 1.5em;
+}
