@@ -38,16 +38,15 @@ h2 {
 }
 
 a {
-  text-decoration: underline;
+  text-decoration: none;
   text-decoration-thickness: 1px;
-  color: #000;
+  color: #009;
   transition: color 0.15s ease-in-out;
 }
 
 a:hover {
-  color: #000099;
+  color: #00e;
   text-decoration: underline;
-  text-decoration-thickness: 2px;
 }
 
 .week {
