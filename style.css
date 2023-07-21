@@ -58,6 +58,10 @@ a:hover {
   margin-bottom: 5px;
 }
 
+#problemsets li {
+  margin-bottom: 10px;
+}
+
 /* @media screen and (max-width: 768px) {
   /* Adjustments for mobile devices 
   #navigation {
